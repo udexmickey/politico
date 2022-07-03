@@ -1,5 +1,5 @@
 BUILD A PRODUCT: Politico
-<br><br><br>
+<br><br>
 Project Overview
 <br><br>
 The general elections are around corner, hence it’s a political season. Get into the mood of the
