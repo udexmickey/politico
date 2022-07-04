@@ -9,6 +9,7 @@ export default function Auth() {
   const [confirmpass, confirmpasswordShown] = useToggle()
 
   const handleSubmitLogin = (e) => {
+    
     console.log('Form submitted');
     e.preventDefault();
   }
