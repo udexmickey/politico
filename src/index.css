@@ -16,6 +16,15 @@ html, *{
   overflow: hidden;
 }
 
+#root{
+  background-color: #4070f4;
+  
+  
+  
+  
+  
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

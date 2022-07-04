@@ -1,9 +1,10 @@
 import './App.scss';
+import Login from './Pages/Auth';
 
 function App() {
   return (
     <div className="App">
-      Hello World Let's build the election app to conduct this forthcoming Nigeria political election.
+      <Login />
     </div>
   );
 }
